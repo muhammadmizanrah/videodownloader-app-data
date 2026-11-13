@@ -1,8 +1,8 @@
 {
-    "version": 5,
-    "sha256": "7ef9705ec9562fe6685d34419781ca9b6977491bd1f082baf5ffac7999370579",
-    "signature": "ed25519:VobEMoZfQPwh8bbY0orHxQSoVYzkF3kUSnXvSUKm5b2z4V74VauhGkFs2+gWqNsfEmOXMxd3W6iorvQW7fRRBw==",
-    "bytes": 2542,
-    "published_at": "2026-11-13T05:19:35+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/videodownloader-app-data@1710bc4/videodownloader/v5.json"
+    "version": 6,
+    "sha256": "218520caa6ce28e968ad1b64bb5a817f4625b24c238e017e7e409c8250520b89",
+    "signature": "ed25519:138aWWCw4zgWw9vogO+HO/T9UjuGnc3pUVrS5JJVCuV8/aavIx2OXQBMVGIKzJwbna7GssTfWSMVkpHUvzx3Bw==",
+    "bytes": 2705,
+    "published_at": "2026-11-13T15:57:24+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/videodownloader-app-data@62db416/videodownloader/v6.json"
 }
